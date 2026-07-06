@@ -6,7 +6,7 @@
  * app can fall back to its local in-memory state from data.js.
  */
 
-const API_BASE = 'http://localhost:5000/api';
+const API_BASE = 'https://5a5a1493cbe1fb.lhr.life/api';
 
 // ─── Faculty ─────────────────────────────────────────────────────────
 
